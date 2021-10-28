@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/RafaelAraujoCv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelAraujoCv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAraujoCv&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelAraujoCv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAraujoCv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ## Conecte-se comigo  
